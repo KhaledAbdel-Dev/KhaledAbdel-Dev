@@ -13,7 +13,7 @@ Throughout my time as a financial solutions consultant I’ve achieved great suc
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
 
-<a href="khaledabdel.com"><img height="" src="https://github-readme-stats.vercel.app/api?username=khaledabdel-dev&theme=prussian&hide_border=false&include_all_commits=false&count_private=false"><img height="" src=""><img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledabdel-dev&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a>
+<a href="khaledabdel.com"><img height="" src="https://github-readme-stats.vercel.app/api?username=khaledabdel-dev&theme=prussian&hide_border=false&include_all_commits=false&count_private=false"><img height="" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledabdel-dev&theme=prussian&hide_border=false"><img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledabdel-dev&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a>
 
 
 
